@@ -1,2 +1,2 @@
 # codeOper561
-This code will store my Python files for OPER 561.
+This repo will store my Python code for OPER 561.
